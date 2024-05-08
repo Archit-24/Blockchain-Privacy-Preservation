@@ -45,3 +45,6 @@ Your application is running here: http://localhost:8080
 8) Open the browser, go to the URL shown by your terminal and play with the DApp!
 
 **NOTE:** if you want to try to add more user profiles you have to install metamask in your browser, then import the accounts into metamask and finally change account on metamask in order to register a new user.
+
+##Team Member
+-[Abhinav Kumar](https://github.com/Abhinav7982)
