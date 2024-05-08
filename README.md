@@ -46,5 +46,5 @@ Your application is running here: http://localhost:8080
 
 **NOTE:** if you want to try to add more user profiles you have to install metamask in your browser, then import the accounts into metamask and finally change account on metamask in order to register a new user.
 
-##Team Member
+# Team Member
 -[Abhinav Kumar](https://github.com/Abhinav7982)
